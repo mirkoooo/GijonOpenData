@@ -1,0 +1,6 @@
+c:\users\camii\documents\visual studio 2015\Projects\Prueba XMLOpenData\bin\Debug\Prueba XMLOpenData.exe.config
+c:\users\camii\documents\visual studio 2015\Projects\Prueba XMLOpenData\bin\Debug\Prueba XMLOpenData.exe
+c:\users\camii\documents\visual studio 2015\Projects\Prueba XMLOpenData\bin\Debug\Prueba XMLOpenData.pdb
+c:\users\camii\documents\visual studio 2015\Projects\Prueba XMLOpenData\obj\Debug\Prueba XMLOpenData.csprojResolveAssemblyReference.cache
+c:\users\camii\documents\visual studio 2015\Projects\Prueba XMLOpenData\obj\Debug\Prueba XMLOpenData.exe
+c:\users\camii\documents\visual studio 2015\Projects\Prueba XMLOpenData\obj\Debug\Prueba XMLOpenData.pdb
