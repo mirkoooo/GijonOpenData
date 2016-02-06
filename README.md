@@ -9,7 +9,7 @@ Open data: [https://transparencia.gijon.es](https://transparencia.gijon.es)
 **Desarrolladores**:
 
 - Andrés Camín Fernández
-- Mirko Fañez Kertelj (Ver [www.mirkoo.es](www.mirkoo.es))
+- Mirko Fañez Kertelj (Ver [http://www.mirkoo.es](www.mirkoo.es))
 
 ## Capturas ##
 
