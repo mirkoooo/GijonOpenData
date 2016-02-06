@@ -4,3 +4,9 @@ c:\users\camii\documents\visual studio 2015\Projects\Prueba XMLOpenData\bin\Debu
 c:\users\camii\documents\visual studio 2015\Projects\Prueba XMLOpenData\obj\Debug\Prueba XMLOpenData.csprojResolveAssemblyReference.cache
 c:\users\camii\documents\visual studio 2015\Projects\Prueba XMLOpenData\obj\Debug\Prueba XMLOpenData.exe
 c:\users\camii\documents\visual studio 2015\Projects\Prueba XMLOpenData\obj\Debug\Prueba XMLOpenData.pdb
+C:\Users\Mirko\Documents\GitHub\GijonOpenData\bin\Debug\Prueba XMLOpenData.exe.config
+C:\Users\Mirko\Documents\GitHub\GijonOpenData\obj\Debug\Prueba XMLOpenData.exe
+C:\Users\Mirko\Documents\GitHub\GijonOpenData\obj\Debug\Prueba XMLOpenData.pdb
+C:\Users\Mirko\Documents\GitHub\GijonOpenData\obj\Debug\Prueba XMLOpenData.csprojResolveAssemblyReference.cache
+C:\Users\Mirko\Documents\GitHub\GijonOpenData\bin\Debug\Prueba XMLOpenData.exe
+C:\Users\Mirko\Documents\GitHub\GijonOpenData\bin\Debug\Prueba XMLOpenData.pdb
