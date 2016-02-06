@@ -7,4 +7,5 @@ Open data: https://transparencia.gijon.es
 
 Desarrolladores:
 Andrés Camín Fernández
+
 Mirko Fañez Kertelj -www.mirkoo.es-
